@@ -1,0 +1,1 @@
+These writeups cover some of the more complex Hack The Box (HTB) rooms I’ve solved, focusing on both pentesting techniques and their reverse, forensics. By understanding attacks from an adversarial perspective, I can better anticipate and investigate potential security breaches.
